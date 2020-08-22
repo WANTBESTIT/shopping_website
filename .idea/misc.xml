@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-bootminio-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../item-solrj-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-shop-ms/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-minio-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../ActiveMQdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringSecurity-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-elasticsearch-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-mapper/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../jwt-security/jwt-auth-center/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt-security/jwt-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt-security/jwt-eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt-security/jwt-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt-security/jwt-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt-security/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/leyou-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/leyou-item/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/ly-Item/ly-item-Interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/ly-Item/ly-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/ly-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/ly-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/../leyou/pom.xml" />
+        <option value="$PROJECT_DIR$/../shopping-search-ms/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

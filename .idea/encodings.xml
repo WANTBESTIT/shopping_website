@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../ActiveMQ-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ActiveMQ-demo/activemq-receiver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ActiveMQ-demo/activemq-sender" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringSecurity-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../item-solrj-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jwt-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jwt-security/jwt-auth-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jwt-security/jwt-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jwt-security/jwt-eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jwt-security/jwt-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jwt-security/jwt-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jwt-security/jwt-microservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jwt-security/jwt-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou/leyou-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou/leyou-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou/leyou-item/leyou-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou/ly-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../leyou/ly-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-content-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-elastic-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-manager-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-page-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-search-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-security-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-shop-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-elasticsearch-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-minio-demo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

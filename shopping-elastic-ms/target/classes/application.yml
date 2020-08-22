@@ -1,0 +1,16 @@
+server:
+  port: 8817
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+spring:
+  data:
+    elasticsearch:
+      repositories:
+        enabled: true
+      cluster-nodes: 127.0.0.1:9300
+      cluster-name: elasticsearch
+
+  application:
+    name: 'shopping-search-ms'

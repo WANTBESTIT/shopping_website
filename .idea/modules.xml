@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ActiveMQ-demo/ActiveMQ-demo.iml" filepath="$PROJECT_DIR$/../ActiveMQ-demo/ActiveMQ-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ActiveMQ-demo/activemq-receiver/activemq-receiver.iml" filepath="$PROJECT_DIR$/../ActiveMQ-demo/activemq-receiver/activemq-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ActiveMQ-demo/activemq-sender/activemq-sender.iml" filepath="$PROJECT_DIR$/../ActiveMQ-demo/activemq-sender/activemq-sender.iml" />
+    </modules>
+  </component>
+</project>
