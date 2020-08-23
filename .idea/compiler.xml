@@ -10,26 +10,23 @@
         <module name="springboot-minio-demo" />
         <module name="shopping-search-ms" />
         <module name="activemq-sender" />
-        <module name="shopping-page-ms" />
         <module name="shopping-shop-ms" />
-        <module name="item-solrj-springboot" />
-        <module name="shopping-content-ms" />
+        <module name="springboot-elasticsearch-demo" />
         <module name="shopping-pojo" />
+        <module name="shopping-page-ms" />
         <module name="activemq-receiver" />
         <module name="jwt-mapper" />
-        <module name="springboot-elasticsearch-demo" />
+        <module name="shopping-elastic-ms" />
+        <module name="item-solrj-springboot" />
         <module name="jwt-pojo" />
         <module name="shopping-eurekaserver" />
         <module name="shopping-mapper" />
         <module name="shopping-manager-ms" />
-        <module name="shopping-elastic-ms" />
+        <module name="shopping-content-ms" />
         <module name="shopping-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ActiveMQ-demo" target="1.8" />
-      <module name="activemq-receiver" target="1.8" />
-      <module name="activemq-sender" target="1.8" />
       <module name="jwt-auth-center" target="1.8" />
       <module name="jwt-common" target="1.8" />
       <module name="jwt-eurekaserver" target="1.8" />

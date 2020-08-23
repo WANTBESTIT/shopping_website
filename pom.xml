@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -25,6 +26,12 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
         </dependency>
 
     </dependencies>
@@ -49,19 +56,19 @@
             </plugin>
         </plugins>
     </build>
+
+
     <modules>
-        <module>shopping-org.gec.security.pojo</module>
+        <module>shopping-pojo</module>
         <module>shopping-manager-ms</module>
         <module>shopping-eurekaserver</module>
         <module>shopping-gateway</module>
-        <module>shopping-org.gec.security.mapper</module>
+        <module>shopping-mapper</module>
         <module>shopping-content-ms</module>
         <module>shopping-search-ms</module>
-        <module>shopping-store-ms</module>
         <module>shopping-page-ms</module>
         <module>shopping-elastic-ms</module>
         <module>shopping-security-ms</module>
     </modules>
-
 
 </project>
